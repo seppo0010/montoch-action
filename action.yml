@@ -1,0 +1,5 @@
+name: 'markdown to pdf'
+description: 'Create PDF for markdown files'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
